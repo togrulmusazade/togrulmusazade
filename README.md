@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - 🌱 Learning all about **Open Source**
 - 🏄‍ Community guy who loves being involved in communities and help others grow
 - 💬 Ask me about **Java, Spring, Hibernate, RestApi, Servlet**
-- 📫 Reach me: [linkedin.com/in/yasinuguraz](https://www.linkedin.com/in/toghrulmusazada/)
+- 📫 Reach me: [linkedin.com/in/toghrulmusazada](https://www.linkedin.com/in/toghrulmusazada/)
 
