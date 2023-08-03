@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 - ⚙️ I use daily: `.java`
 - 🌱 Learning all about **Open Source**
 - 🏄‍ Community guy who loves being involved in communities and help others grow
-- 💬 Ask me about **Java, Spring boot, Hibernate, RestApi, Servlet**
+- 💬 Ask me about **Java, Spring, Hibernate, RestApi, Servlet**
 - 📫 Reach me: [linkedin.com/in/yasinuguraz](https://www.linkedin.com/in/toghrulmusazada/)
 
