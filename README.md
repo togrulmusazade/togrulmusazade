@@ -21,15 +21,14 @@ Here are some ideas to get you started:
 
 ##### NOW
 
-- ✨ Preparing AWS Certified Solutions Architect - Associate Certification;
+- ✨ Working on Java based Backend Projects;
 - 👪 I’m looking to collaborate on open source/commercial projects
 
 ##### BIO
 
-- ⚙️ I use daily: `.py`, `.js`, `.cpp`
+- ⚙️ I use daily: `.java`
 - 🌱 Learning all about **Open Source**
-- 🏄‍ Community guy who loves being involved in communities and help students grow
-- 💬 Ping me about **algorithms**, **development**, **python**, **aws**
-- 📫 Reach me: [linkedin.com/in/yasinuguraz](https://www.linkedin.com/in/yasinuguraz)
-- 📌 Check my personal page: [https://bento.me/yasinughur](https://bento.me/yasinughur)
+- 🏄‍ Community guy who loves being involved in communities and help others grow
+- 💬 Ask me about **Java, Spring boot, Hibernate, RestApi, Servlet**
+- 📫 Reach me: [linkedin.com/in/yasinuguraz](https://www.linkedin.com/in/toghrulmusazada/)
 
