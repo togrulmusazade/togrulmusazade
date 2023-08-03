@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-#### Java Backend Developer 
+#### I'm a Java Backend Developer 
 
 ##### NOW
 
